@@ -13,7 +13,7 @@ Definition: CRUD(Create, Read, Update and Delete)
 ### To run the project locally, follow the following instructions:
 - Clone the repository
   ```sql
-  git clone https://github.com/hellen-22/Library-Management-System-Django.git
+  git clone https://github.com/Prithviraj639/Library-Management-System-Django
   ```
 - Navigate to the project directory.
   ```sql
@@ -21,7 +21,7 @@ Definition: CRUD(Create, Read, Update and Delete)
   ```
 - Create virtual environment and activate it:
   ```sql
-  python3 -m venv venv or python -m venv venv
+  python3 -m venv venv 
   ```
   Activate: On Windows
   ```sql
@@ -33,7 +33,7 @@ Definition: CRUD(Create, Read, Update and Delete)
   ```
 - Install libraries from the requirements.txt file.
   ```sql
-  pip install -r requirement.txt
+  pip install -r requirements.txt
   ```
 - Edit the *.env.sample* file to add your environment variables.
 - Set up the database:
